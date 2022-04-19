@@ -1,0 +1,1 @@
+This is my first attempt at creating a Landing Page with the Odin Project (HTML and CSS).
