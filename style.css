@@ -166,3 +166,23 @@ h1, p {
 .quote h2 {
     /* flex: 1; */
     font-size: 20px;}
+
+/* Footer */
+
+.footer {
+    background-color: #1F2937;
+    min-height: 80px;
+}
+
+.footer .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 10px;
+}
+
+.footer p {
+    color: white;
+    font-size: small;
+    text-align: center;
+}
